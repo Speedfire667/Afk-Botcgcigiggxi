@@ -1,7 +1,7 @@
 {
     "bot-account":{ 
         "username": "boti",
-        "password": "12345678",
+        "password": "",
         "type": "mojang"
     },
 
