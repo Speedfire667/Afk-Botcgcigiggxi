@@ -1,13 +1,13 @@
 {
     "bot-account":{ 
-        "username": "bot_one@example.com",
+        "username": "boti",
         "password": "12345678",
         "type": "mojang"
     },
 
     "server":{
-        "ip": "localhost",
-        "port": 25565,
+        "ip": "Speedfire667.aternos.me",
+        "port": 56470,
         "version": "1.16.4"
     },
 
@@ -25,8 +25,8 @@
         },
 
         "anti-afk":{
-            "enabled": false,
-            "sneak": false
+            "enabled": true,
+            "sneak": true
         },
 
         "chat-log": true,
